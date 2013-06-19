@@ -21,7 +21,7 @@
 
 
 
-Resources:
+**Resources:**
 
 - [coa_instr_boolean.rb](./ruby_basics/coa_instr_boolean.rb)
 - [coa_instr_teddit_strings](./ruby_basics/coa_instr_teddit_strings)
